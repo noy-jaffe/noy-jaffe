@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi I'm Noy Jaffe 👋
 
-<!--
-**noy-jaffe/noy-jaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate computer science graduate with a keen interest in cybersecurity, software development, and technology education. Welcome to my GitHub profile, where you can explore some of my projects, contributions, and insights into my journey in the world of technology.
 
-Here are some ideas to get you started:
+## Tech Stack 💻
+### Frontend
+* JavaScript
+* CSS
+* HTML
+* React
+### Backend
+* Python
+* Node.js
+* Java
+* MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me 📫: 
+LinkedIn: [Noy Jaffe] (https://www.linkedin.com/in/noy-jaffe/)
